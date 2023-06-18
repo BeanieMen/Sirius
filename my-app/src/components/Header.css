@@ -4,6 +4,9 @@
     padding: 10px 0;
     background-color: var(--header-color);
 }
+#Avatar{
+    padding: 0px;
+}
 .Left_Side{
     display: flex;
     align-items: center;

@@ -8,7 +8,9 @@ const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 root.render(
+  
   <React.StrictMode>
+    <script src="http://localhost:8097"></script>
     <App />
   </React.StrictMode>
 );

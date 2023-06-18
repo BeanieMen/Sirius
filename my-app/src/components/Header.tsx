@@ -7,8 +7,9 @@ const Header=()=>{
   return (
     <div className="Header">
         <div className="Left_Side">
-        <ArrowBackIcon/>
-        <AccountCircleIcon className="Avatar"/>
+        <ArrowBackIcon id="back arrow" />
+        <AccountCircleIcon id="Avatar"/>
+        <h2>Gary</h2>        
         </div>
     </div>
   )

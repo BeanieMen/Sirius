@@ -5,12 +5,10 @@ import FiberManualRecord from '@mui/icons-material/FiberManualRecord';
 const SideBar=()=>{
     return (
         <div className="SideBar">
-           <div className="side_bar">
-                <h2>Gary</h2> 
-                <h3>
-                    <FiberManualRecord/>
-                </h3>
-            </div> 
+            <div id="sidenav">
+                <h1>gary</h1>
+            </div>
+
         </div>
     )
 }
