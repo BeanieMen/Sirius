@@ -1,0 +1,17 @@
+.Header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    background-color: var(--header-color);
+}
+.Left_Side{
+    display: flex;
+    align-items: center;
+    margin-left: 28%;
+}
+.Left_Side > .MuiSvgIcon-root{
+    margin-right:30px;
+}
+.Avatar{
+    transform: scale(1.8);
+}
